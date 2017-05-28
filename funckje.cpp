@@ -1,5 +1,5 @@
 #include <iostream>
-#include "ListaDwukierunkowaMOJA.h"
+#include "funkcje.h"
 using namespace std;
  
 bool flagaPm1=0;
