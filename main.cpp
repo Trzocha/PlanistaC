@@ -1,6 +1,6 @@
 #include <iostream>
 #include <stdio.h>
-#include "ListaDwukierunkowaMOJA.h"
+#include "funckje.h"
  
 using namespace std;
  
